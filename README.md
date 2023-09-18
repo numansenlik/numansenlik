@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Devoloper
 -------------------
 
-Since my final year of university, which has been approximately 1.5 years ago, I have been immersed in the world of coding, with a primary focus on React.js. During this period, I have established a solid foundation in web development and honed my skills in creating dynamic and responsive user interfaces.
+Since my final year of university, which has been approximately 1.5 years ago, I have been immersed in the world of coding, with a primary focus on JavaScript . During this period, I have established a solid foundation in web development and honed my skills in creating dynamic and responsive user interfaces.
 
 * 🌍  I'm based in Bursa / Turkey
 * ✉️  You can contact me at [numansenlik@gmail.com](mailto:numansenlik@gmail.com)
