@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Numan
 =============================================================================================================================
 
-Front-End Devoloper
 -------------------
 
-Since my final year of university, which has been approximately 1.5 years ago, I have been immersed in the world of coding, with a primary focus on JavaScript . During this period, I have established a solid foundation in web development and honed my skills in creating dynamic and responsive user interfaces.
+Since my final year of university, which has been approximately 1.5 years ago, I have been immersed in the world of coding, with a primary focus on JavaScript 
 
 * 🌍  I'm based in Bursa / Turkey
 * ✉️  You can contact me at [numansenlik@gmail.com](mailto:numansenlik@gmail.com)
